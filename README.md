@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+
+![alt text](<primer video.png>)
